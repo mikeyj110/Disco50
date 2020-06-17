@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height" />
+        <!-- actually download these later-->
+        <script src="http://code.jquery.com/jquery-2.1.3.min.js"></script>
+        <script type="text/javascript" src="cordova.js"></script>
+        <link rel="stylesheet" href="css/style.css" />
+        <title>Disco 50</title>
+        <style>
+            #container {
+                /* ios
+                margin-top: 5px;*/
+                margin-top: 20px;
+            }
+        </style>
+        <script>
+          $(document).ready(function(){
+            alert('Plese note that all discounts are subject to availability for individual locations.\nThis is a collection of known discounts and is in no way affiliated with the listed companies.');
+          //jAlert('This is a custom alert box', 'Alert Dialog');
+          });
+        </script>
+    </head>
+    <body>
+        <div id="header" class="title" data-role="header"><!--h1>Disco 50</h1--><!-- GatsbyFLF-Bold http://fontmeme.com/retro-fonts/ --></div>
+        <div id="container"  class="padding5 center">
+            <button id="restaurants" onclick="location.href='rest.html';" class="btn">Restaurants</button>
+            <button id="retail" onclick="location.href='reta.html';" class="btn">Retail</button>   
+            <button id="grocery" onclick="location.href='groc.html';" class="btn">Grocery</button>
+            <button id="activities" onclick="location.href='acti.html';" class="btn">Activities</button>
+            <button id="travel" onclick="location.href='trav.html';" class="btn">Travel</button>
+            <button id="cellPhones" onclick="location.href='cell.html';" class="btn">Cell Phone</button>
+            <button id="misc"  onclick="location.href='misc.html';" class="btn">Miscellaneous</button>
+            <button id="all" onclick="location.href='all.html';" class="btn">All Discounts</button>
+            <button id="contact" onclick="location.href='contact.html';" class="btn">Contact</button>
+            <!--button id="test" onclick="location.href='test_all.html';" class="btn test">TEST</button-->
+        </div> <!--container-->
+        <div id="truFoot" data-role="footer" id="footer">
+            <p class="center">&copy2020 | CrashApps</p>
+        </div><!--truFoot-->
+    </body>
+</html>

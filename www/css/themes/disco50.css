@@ -1,0 +1,59 @@
+body {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+        
+.center {
+    text-align: center;
+}
+.n {
+    display: none !important;
+    background-color: bisque;
+}
+
+.companyData {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    border-bottom: #dfdfdf thin solid;
+    font-size: 1.1em;
+}
+.btn {
+    width: 98%;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.5em;
+}
+.test{
+    background-color: green !important;
+}
+.title {
+    background-image: url(images/logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+#header {
+    font-size: 1.8em;
+/*    height: 75px;
+    line-height: 75px;*/
+}
+#footer {
+    font-size: 1.1em;
+}
+/*#content {
+    position:absolute;
+    top: 75px;
+    left:0px;
+    right:0px;
+    bottom:75px;
+    overflow-y:scroll;     
+}*/

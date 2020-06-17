@@ -1,0 +1,1225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<disco50Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<companyData>
+		<id>1</id>
+		<category>rest</category>
+		<companyName>Applebee’s</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>15% off  with Golden Apple Card</discountRate>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>a1</imgLink>
+	</companyData>
+	<companyData>
+		<id>2</id>
+		<category>rest</category>
+		<companyName>Arby’s</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>55+</targetAge>
+		<active>y</active>
+		<imgLink>a2</imgLink>
+	</companyData>
+	<companyData>
+		<id>3</id>
+		<category>rest</category>
+		<companyName>Ben &amp; Jerry’s</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>b3</imgLink>
+	</companyData>
+	<companyData>
+		<id>4</id>
+		<category>rest</category>
+		<companyName>Bennigan’s</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>discount varies by location</discountRate>
+		<targetAge>n/a</targetAge>
+		<active>y</active>
+		<imgLink>b4</imgLink>
+	</companyData>
+	<companyData>
+		<id>5</id>
+		<category>rest</category>
+		<companyName>Bob’s Big Boy</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>discount varies by location</discountRate>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>b5</imgLink>
+	</companyData>
+	<companyData>
+		<id>6</id>
+		<category>rest</category>
+		<companyName>Boston Market</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>65+</targetAge>
+		<active>y</active>
+		<imgLink>b6</imgLink>
+	</companyData>
+	<companyData>
+		<id>7</id>
+		<category>rest</category>
+		<companyName>Burger King</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>b7</imgLink>
+	</companyData>
+	<companyData>
+		<id>8</id>
+		<category>rest</category>
+		<companyName>Captain D’s Seafood</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>discount varies on location</discountRate>
+		<targetAge>62+</targetAge>
+		<active>y</active>
+		<imgLink>c8</imgLink>
+	</companyData>
+	<companyData>
+		<id>9</id>
+		<category>rest</category>
+		<companyName>Chick-Fil-A</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off or free small drink or coffee</discountRate>
+		<targetAge>55+</targetAge>
+		<active>y</active>
+		<imgLink>c9</imgLink>
+	</companyData>
+	<companyData>
+		<id>10</id>
+		<category>rest</category>
+		<companyName>Chili’s</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>55+</targetAge>
+		<active>y</active>
+		<imgLink>c10</imgLink>
+	</companyData>
+	<companyData>
+		<id>11</id>
+		<category>rest</category>
+		<companyName>CiCi’s Pizza</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>c11</imgLink>
+	</companyData>
+	<companyData>
+		<id>12</id>
+		<category>rest</category>
+		<companyName>Culver’s</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>c12</imgLink>
+	</companyData>
+	<companyData>
+		<id>13</id>
+		<category>rest</category>
+		<companyName>Denny’s</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off, 20% off for AARP members</discountRate>
+		<targetAge>55+</targetAge>
+		<active>y</active>
+		<imgLink>d13</imgLink>
+	</companyData>
+	<companyData>
+		<id>14</id>
+		<category>rest</category>
+		<companyName>Dunkin’ Donuts</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off or free coffee</discountRate>
+		<targetAge>55+</targetAge>
+		<active>y</active>
+		<imgLink>d14</imgLink>
+	</companyData>
+	<companyData>
+		<id>15</id>
+		<category>rest</category>
+		<companyName>Einstein’s Bagels</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off baker’s dozen of bagels</discountRate>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>e15</imgLink>
+	</companyData>
+	<companyData>
+		<id>16</id>
+		<category>rest</category>
+		<companyName>Fuddrucker’s</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off any senior platter</discountRate>
+		<targetAge>55+</targetAge>
+		<active>y</active>
+		<imgLink>f16</imgLink>
+	</companyData>
+	<companyData>
+		<id>17</id>
+		<category>rest</category>
+		<companyName>Gatti’s Pizza</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>g17</imgLink>
+	</companyData>
+	<companyData>
+		<id>18</id>
+		<category>rest</category>
+		<companyName>Golden Corral</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>g18</imgLink>
+	</companyData>
+	<companyData>
+		<id>19</id>
+		<category>rest</category>
+		<companyName>Hardee’s</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>$0.33 beverages</discountRate>
+		<timeRest>everyday </timeRest>
+		<targetAge>65+</targetAge>
+		<active>y</active>
+		<imgLink>h19</imgLink>
+	</companyData>
+	<companyData>
+		<id>20</id>
+		<category>rest</category>
+		<companyName>IHOP</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>55+</targetAge>
+		<active>y</active>
+		<imgLink>i20</imgLink>
+	</companyData>
+	<companyData>
+		<id>21</id>
+		<category>rest</category>
+		<companyName>Jack in the Box</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>up to 20% off</discountRate>
+		<targetAge>55+</targetAge>
+		<active>y</active>
+		<imgLink>j21</imgLink>
+	</companyData>
+	<companyData>
+		<id>22</id>
+		<category>rest</category>
+		<companyName>KFC</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>free small drink with any meal</discountRate>
+		<targetAge>55+</targetAge>
+		<active>y</active>
+		<imgLink>k22</imgLink>
+	</companyData>
+	<companyData>
+		<id>23</id>
+		<category>rest</category>
+		<companyName>Krispy Kreme</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>50+</targetAge>
+		<active>y</active>
+		<imgLink>k23</imgLink>
+	</companyData>
+	<companyData>
+		<id>24</id>
+		<category>rest</category>
+		<companyName>Long John Silver’s</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>various discounts at participating locations</discountRate>
+		<targetAge>55+</targetAge>
+		<active>y</active>
+		<imgLink>l24</imgLink>
+	</companyData>
+	<companyData>
+		<id>25</id>
+		<category>rest</category>
+		<companyName>McDonald’s</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>discounts on coffee everyday</discountRate>
+		<targetAge>55+</targetAge>
+		<active>y</active>
+		<imgLink>m25</imgLink>
+	</companyData>
+	<companyData>
+		<id>26</id>
+		<category>rest</category>
+		<companyName>Mrs. Fields</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off at participating locations</discountRate>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>m26</imgLink>
+	</companyData>
+	<companyData>
+		<id>27</id>
+		<category>rest</category>
+		<companyName>Shoney’s</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>n/a</targetAge>
+		<active>y</active>
+		<imgLink>s27</imgLink>
+	</companyData>
+	<companyData>
+		<id>28</id>
+		<category>rest</category>
+		<companyName>Sonic</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off or free beverage</discountRate>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>s28</imgLink>
+	</companyData>
+	<companyData>
+		<id>29</id>
+		<category>rest</category>
+		<companyName>Steak ‘n Shake</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off</discountRate>
+		<timeRest>Mondays &amp; Tuesdays</timeRest>
+		<targetAge>50+</targetAge>
+		<active>y</active>
+		<imgLink>s29</imgLink>
+	</companyData>
+	<companyData>
+		<id>30</id>
+		<category>rest</category>
+		<companyName>Subway</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>s30</imgLink>
+	</companyData>
+	<companyData>
+		<id>31</id>
+		<category>rest</category>
+		<companyName>Sweet Tomatoes</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate> 10% off</discountRate>
+		<targetAge>n/a</targetAge>
+		<active>y</active>
+		<imgLink>s31</imgLink>
+	</companyData>
+	<companyData>
+		<id>32</id>
+		<category>rest</category>
+		<companyName>Taco Bell</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>5% off; free beverages for seniors</discountRate>
+		<targetAge>65+</targetAge>
+		<active>y</active>
+		<imgLink>t32</imgLink>
+	</companyData>
+	<companyData>
+		<id>33</id>
+		<category>rest</category>
+		<companyName>TCBY</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>55+</targetAge>
+		<active>y</active>
+		<imgLink>t33</imgLink>
+	</companyData>
+	<companyData>
+		<id>34</id>
+		<category>rest</category>
+		<companyName>Tea Room Cafe</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>50+</targetAge>
+		<active>y</active>
+		<imgLink>t34</imgLink>
+	</companyData>
+	<companyData>
+		<id>35</id>
+		<category>rest</category>
+		<companyName>Village Inn</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>v35</imgLink>
+	</companyData>
+	<companyData>
+		<id>36</id>
+		<category>rest</category>
+		<companyName>Waffle House</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off</discountRate>
+		<timeRest>Mondays</timeRest>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>w36</imgLink>
+	</companyData>
+	<companyData>
+		<id>37</id>
+		<category>rest</category>
+		<companyName>Wendy’s</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>Senior age and discount offer will vary depending on the location.  Ask the restaurant for details.</discountRate>
+		<targetAge>n/a</targetAge>
+		<active>y</active>
+		<imgLink>w37</imgLink>
+	</companyData>
+	<companyData>
+		<id>38</id>
+		<category>rest</category>
+		<companyName>White Castle</companyName>
+		<storeType>Restaurant</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>62+</targetAge>
+		<active>y</active>
+		<imgLink>w38</imgLink>
+	</companyData>
+	<companyData>
+		<id>39</id>
+		<category>reta</category>
+		<companyName>Banana Republic</companyName>
+		<storeType>Retail and Apparel</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>50+</targetAge>
+		<active>y</active>
+		<imgLink>b39</imgLink>
+	</companyData>
+	<companyData>
+		<id>40</id>
+		<category>reta</category>
+		<companyName>Bealls</companyName>
+		<storeType>Retail and Apparel</storeType>
+		<discountRate>20% off</discountRate>
+		<timeRest>First Tuesday of each month</timeRest>
+		<targetAge>50+</targetAge>
+		<active>y</active>
+		<imgLink>b40</imgLink>
+	</companyData>
+	<companyData>
+		<id>41</id>
+		<category>reta</category>
+		<companyName>Belk’s</companyName>
+		<storeType>Retail and Apparel</storeType>
+		<discountRate>15% off</discountRate>
+		<timeRest>First Tuesday of each month</timeRest>
+		<targetAge>55+</targetAge>
+		<active>y</active>
+		<imgLink>b41</imgLink>
+	</companyData>
+	<companyData>
+		<id>42</id>
+		<category>reta</category>
+		<companyName>Big Lots</companyName>
+		<storeType>Retail and Apparel</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>n/a</targetAge>
+		<active>y</active>
+		<imgLink>b42</imgLink>
+	</companyData>
+	<companyData>
+		<id>43</id>
+		<category>reta</category>
+		<companyName>Bon-Ton Department Stores</companyName>
+		<storeType>Retail and Apparel</storeType>
+		<discountRate>15% off</discountRate>
+		<timeRest>On senior discount days</timeRest>
+		<targetAge>55+</targetAge>
+		<active>y</active>
+		<imgLink>b43</imgLink>
+	</companyData>
+	<companyData>
+		<id>44</id>
+		<category>reta</category>
+		<companyName>C.J. Banks</companyName>
+		<storeType>Retail and Apparel</storeType>
+		<discountRate>10% off</discountRate>
+		<timeRest>Wednesdays</timeRest>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>c44</imgLink>
+	</companyData>
+	<companyData>
+		<id>45</id>
+		<category>reta</category>
+		<companyName>Clarks</companyName>
+		<storeType>Retail and Apparel</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>62+</targetAge>
+		<active>y</active>
+		<imgLink>c45</imgLink>
+	</companyData>
+	<companyData>
+		<id>46</id>
+		<category>reta</category>
+		<companyName>Dress Barn</companyName>
+		<storeType>Retail and Apparel</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>55+</targetAge>
+		<active>y</active>
+		<imgLink>d46</imgLink>
+	</companyData>
+	<companyData>
+		<id>47</id>
+		<category>reta</category>
+		<companyName>Goodwill</companyName>
+		<storeType>Retail and Apparel</storeType>
+		<discountRate>10% off</discountRate>
+		<timeRest>One day a week (date varies by location)</timeRest>
+		<targetAge>n/a</targetAge>
+		<active>y</active>
+		<imgLink>g47</imgLink>
+	</companyData>
+	<companyData>
+		<id>48</id>
+		<category>reta</category>
+		<companyName>Hallmark</companyName>
+		<storeType>Retail and Apparel</storeType>
+		<discountRate>10% off</discountRate>
+		<timeRest>One day a week (date varies by location)</timeRest>
+		<targetAge>n/a</targetAge>
+		<active>y</active>
+		<imgLink>h48</imgLink>
+	</companyData>
+	<companyData>
+		<id>49</id>
+		<category>reta</category>
+		<companyName>Kmart</companyName>
+		<storeType>Retail and Apparel</storeType>
+		<discountRate>20% off</discountRate>
+		<targetAge>50+</targetAge>
+		<active>n</active>
+		<imgLink>k49</imgLink>
+	</companyData>
+	<companyData>
+		<id>50</id>
+		<category>reta</category>
+		<companyName>Kohl’s</companyName>
+		<storeType>Retail and Apparel</storeType>
+		<discountRate>15% off </discountRate>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>k50</imgLink>
+	</companyData>
+	<companyData>
+		<id>51</id>
+		<category>reta</category>
+		<companyName>Modell’s Sporting Goods</companyName>
+		<storeType>Retail and Apparel</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>n/a</targetAge>
+		<active>y</active>
+		<imgLink>m51</imgLink>
+	</companyData>
+	<companyData>
+		<id>52</id>
+		<category>reta</category>
+		<companyName>Rite Aid</companyName>
+		<storeType>Retail and Apparel</storeType>
+		<discountRate>20% off</discountRate>
+		<timeRest>First Wednesdays of month</timeRest>
+		<targetAge>65+</targetAge>
+		<active>y</active>
+		<imgLink>r52</imgLink>
+	</companyData>
+	<companyData>
+		<id>53</id>
+		<category>reta</category>
+		<companyName>Ross Stores</companyName>
+		<storeType>Retail and Apparel</storeType>
+		<discountRate>10% off</discountRate>
+		<timeRest>Tuesdays</timeRest>
+		<targetAge>55+</targetAge>
+		<active>y</active>
+		<imgLink>r53</imgLink>
+	</companyData>
+	<companyData>
+		<id>54</id>
+		<category>reta</category>
+		<companyName>Stein Mart</companyName>
+		<storeType>Retail and Apparel</storeType>
+		<discountRate>20% off red dot/clearance items</discountRate>
+		<timeRest>First Monday of every month</timeRest>
+		<targetAge>55+</targetAge>
+		<active>y</active>
+		<imgLink>s54</imgLink>
+	</companyData>
+	<companyData>
+		<id>55</id>
+		<category>reta</category>
+		<companyName>The Salvation Army Thrift Stores</companyName>
+		<storeType>Retail and Apparel</storeType>
+		<discountRate>up to 50% off</discountRate>
+		<targetAge>55+</targetAge>
+		<active>y</active>
+		<imgLink>t55</imgLink>
+	</companyData>
+	<companyData>
+		<id>56</id>
+		<category>groc</category>
+		<companyName>American Discount Stores</companyName>
+		<storeType>Grocery</storeType>
+		<discountRate>10% off</discountRate>
+		<timeRest>Mondays</timeRest>
+		<targetAge>50+</targetAge>
+		<active>y</active>
+		<imgLink>a56</imgLink>
+	</companyData>
+	<companyData>
+		<id>57</id>
+		<category>groc</category>
+		<companyName>Bi-Lo</companyName>
+		<storeType>Grocery</storeType>
+		<discountRate>5% off with Senior Bonus Card (available free on request). Restrictions apply.  See store for details.</discountRate>
+		<timeRest>Wednesdays</timeRest>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>b57</imgLink>
+	</companyData>
+	<companyData>
+		<id>58</id>
+		<category>groc</category>
+		<companyName>Compare Foods Supermarket</companyName>
+		<storeType>Grocery</storeType>
+		<discountRate>10% off</discountRate>
+		<timeRest>Wednesdays</timeRest>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>c58</imgLink>
+	</companyData>
+	<companyData>
+		<id>59</id>
+		<category>groc</category>
+		<companyName>DeCicco Family Markets</companyName>
+		<storeType>Grocery</storeType>
+		<discountRate>5% off</discountRate>
+		<timeRest>Wednesdays</timeRest>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>d59</imgLink>
+	</companyData>
+	<companyData>
+		<id>60</id>
+		<category>groc</category>
+		<companyName>Food Lion</companyName>
+		<storeType>Grocery</storeType>
+		<discountRate>6% off</discountRate>
+		<timeRest>Mondays</timeRest>
+		<targetAge>60+</targetAge>
+		<active>n</active>
+		<imgLink>f60</imgLink>
+	</companyData>
+	<companyData>
+		<id>61</id>
+		<category>groc</category>
+		<companyName>Fry’s Supermarket</companyName>
+		<storeType>Grocery</storeType>
+		<discountRate>10% off on Mondays &amp; Free Fry’s VIP Club Membership</discountRate>
+		<timeRest>Mondays</timeRest>
+		<targetAge>55+</targetAge>
+		<active>y</active>
+		<imgLink>f61</imgLink>
+	</companyData>
+	<companyData>
+		<id>62</id>
+		<category>groc</category>
+		<companyName>Great Valu Food Store</companyName>
+		<storeType>Grocery</storeType>
+		<discountRate>5% off</discountRate>
+		<timeRest>Tuesdays</timeRest>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>g62</imgLink>
+	</companyData>
+	<companyData>
+		<id>63</id>
+		<category>groc</category>
+		<companyName>Gristedes Supermarket</companyName>
+		<storeType>Grocery</storeType>
+		<discountRate>10% off</discountRate>
+		<timeRest>Tuesdays</timeRest>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>g63</imgLink>
+	</companyData>
+	<companyData>
+		<id>64</id>
+		<category>groc</category>
+		<companyName>Harris Teeter</companyName>
+		<storeType>Grocery</storeType>
+		<discountRate>5% off</discountRate>
+		<timeRest>Tuesdays</timeRest>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>h64</imgLink>
+	</companyData>
+	<companyData>
+		<id>65</id>
+		<category>groc</category>
+		<companyName>Hy-Vee</companyName>
+		<storeType>Grocery</storeType>
+		<discountRate>5% off one day a week</discountRate>
+		<timeRest>Date varies by location</timeRest>
+		<targetAge>n/a</targetAge>
+		<active>y</active>
+		<imgLink>h65</imgLink>
+	</companyData>
+	<companyData>
+		<id>66</id>
+		<category>groc</category>
+		<companyName>Kroger</companyName>
+		<storeType>Grocery</storeType>
+		<discountRate>5% off</discountRate>
+		<timeRest>Thursdays</timeRest>
+		<targetAge>n/a</targetAge>
+		<active>y</active>
+		<imgLink>k66</imgLink>
+	</companyData>
+	<companyData>
+		<id>67</id>
+		<category>groc</category>
+		<companyName>Morton Williams Supermarket</companyName>
+		<storeType>Grocery</storeType>
+		<discountRate>5% off</discountRate>
+		<timeRest>Tuesdays</timeRest>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>m67</imgLink>
+	</companyData>
+	<companyData>
+		<id>68</id>
+		<category>groc</category>
+		<companyName>Publix</companyName>
+		<storeType>Grocery</storeType>
+		<discountRate>Availability varies by store.</discountRate>
+		<targetAge>n/a</targetAge>
+		<active>y</active>
+		<imgLink>p68</imgLink>
+	</companyData>
+	<companyData>
+		<id>69</id>
+		<category>groc</category>
+		<companyName>Rogers Marketplace</companyName>
+		<storeType>Grocery</storeType>
+		<discountRate>5% off</discountRate>
+		<timeRest>Thursdays</timeRest>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>r69</imgLink>
+	</companyData>
+	<companyData>
+		<id>70</id>
+		<category>groc</category>
+		<companyName>The Plant Shed</companyName>
+		<storeType>Grocery</storeType>
+		<discountRate>10% off</discountRate>
+		<timeRest>Tuesdays</timeRest>
+		<targetAge>50+</targetAge>
+		<active>y</active>
+		<imgLink>t70</imgLink>
+	</companyData>
+	<companyData>
+		<id>71</id>
+		<category>groc</category>
+		<companyName>Uncle Guiseppe’s Marketplace</companyName>
+		<storeType>Grocery</storeType>
+		<discountRate>5% off</discountRate>
+		<targetAge>62+</targetAge>
+		<active>y</active>
+		<imgLink>u71</imgLink>
+	</companyData>
+	<companyData>
+		<id>72</id>
+		<category>trav</category>
+		<companyName>Alamo</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>up to 25% off for AARP members</discountRate>
+		<targetAge>n/a</targetAge>
+		<active>y</active>
+		<AARP>y</AARP>
+		<imgLink>a72</imgLink>
+	</companyData>
+	<companyData>
+		<id>73</id>
+		<category>trav</category>
+		<companyName>Alaska Airlines</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>65+</targetAge>
+		<active>y</active>
+		<imgLink>a73</imgLink>
+	</companyData>
+	<companyData>
+		<id>74</id>
+		<category>trav</category>
+		<companyName>American Airlines</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>various discounts (call before booking for discount)</discountRate>
+		<targetAge>65+</targetAge>
+		<active>y</active>
+		<imgLink>a74</imgLink>
+	</companyData>
+	<companyData>
+		<id>75</id>
+		<category>trav</category>
+		<companyName>Amtrak</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>15% off</discountRate>
+		<targetAge>62+</targetAge>
+		<active>y</active>
+		<imgLink>a75</imgLink>
+	</companyData>
+	<companyData>
+		<id>76</id>
+		<category>trav</category>
+		<companyName>Avis</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>up to 25% off for AARP members</discountRate>
+		<targetAge>n/a</targetAge>
+		<active>y</active>
+		<AARP>y</AARP>
+		<imgLink>a76</imgLink>
+	</companyData>
+	<companyData>
+		<id>77</id>
+		<category>trav</category>
+		<companyName>Best Western</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>55+</targetAge>
+		<active>y</active>
+		<imgLink>b77</imgLink>
+	</companyData>
+	<companyData>
+		<id>78</id>
+		<category>trav</category>
+		<companyName>Budget Rental Cars</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>10% off; up to 20% off for AARP members</discountRate>
+		<targetAge>50+</targetAge>
+		<active>y</active>
+		<AARP>y</AARP>
+		<imgLink>b78</imgLink>
+	</companyData>
+	<companyData>
+		<id>79</id>
+		<category>trav</category>
+		<companyName>Cambria Suites</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>20%-30% off</discountRate>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>c79</imgLink>
+	</companyData>
+	<companyData>
+		<id>80</id>
+		<category>trav</category>
+		<companyName>Clarion</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>20%-30% off</discountRate>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>c80</imgLink>
+	</companyData>
+	<companyData>
+		<id>81</id>
+		<category>trav</category>
+		<companyName>Comfort Inn</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>20%-30% off</discountRate>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>c81</imgLink>
+	</companyData>
+	<companyData>
+		<id>82</id>
+		<category>trav</category>
+		<companyName>Comfort Suites</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>20%-30% off</discountRate>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>c82</imgLink>
+	</companyData>
+	<companyData>
+		<id>83</id>
+		<category>trav</category>
+		<companyName>Continental Airlines</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>No initiation fee for Continental Presidents Club &amp; special fares for select destinations</discountRate>
+		<targetAge>n/a</targetAge>
+		<active>y</active>
+		<imgLink>c83</imgLink>
+	</companyData>
+	<companyData>
+		<id>84</id>
+		<category>trav</category>
+		<companyName>Dollar Rent-A-Car</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>50+</targetAge>
+		<active>y</active>
+		<imgLink>d84</imgLink>
+	</companyData>
+	<companyData>
+		<id>85</id>
+		<category>trav</category>
+		<companyName>Econo Lodge</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>20%-30% off</discountRate>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>e85</imgLink>
+	</companyData>
+	<companyData>
+		<id>86</id>
+		<category>trav</category>
+		<companyName>Enterprise Rent-A-Car</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>5% off for AARP members</discountRate>
+		<targetAge>n/a</targetAge>
+		<active>y</active>
+		<AARP>y</AARP>
+		<imgLink>e86</imgLink>
+	</companyData>
+	<companyData>
+		<id>87</id>
+		<category>trav</category>
+		<companyName>Greyhound</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>5% off</discountRate>
+		<targetAge>62+</targetAge>
+		<active>y</active>
+		<imgLink>g87</imgLink>
+	</companyData>
+	<companyData>
+		<id>88</id>
+		<category>trav</category>
+		<companyName>Hampton Inns &amp; Suites</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>10% off when booked 72 hours in advance</discountRate>
+		<targetAge>n/a</targetAge>
+		<active>y</active>
+		<imgLink>h88</imgLink>
+	</companyData>
+	<companyData>
+		<id>89</id>
+		<category>trav</category>
+		<companyName>Hertz</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>up t0 25% off for AARP members</discountRate>
+		<targetAge>n/a</targetAge>
+		<active>y</active>
+		<AARP>y</AARP>
+		<imgLink>h89</imgLink>
+	</companyData>
+	<companyData>
+		<id>90</id>
+		<category>trav</category>
+		<companyName>Holiday Inn</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>10%-30% off depending on location</discountRate>
+		<targetAge>62+</targetAge>
+		<active>y</active>
+		<imgLink>h90</imgLink>
+	</companyData>
+	<companyData>
+		<id>91</id>
+		<category>trav</category>
+		<companyName>Hyatt Hotels</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>25%-50% off</discountRate>
+		<targetAge>62+</targetAge>
+		<active>y</active>
+		<imgLink>h91</imgLink>
+	</companyData>
+	<companyData>
+		<id>92</id>
+		<category>trav</category>
+		<companyName>InterContinental Hotels Group</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>various discounts at all hotels</discountRate>
+		<targetAge>65+</targetAge>
+		<active>y</active>
+		<imgLink>i92</imgLink>
+	</companyData>
+	<companyData>
+		<id>93</id>
+		<category>trav</category>
+		<companyName>Mainstay Suites</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>10% off with Mature Traveler’s Discount (50+); 20%-30% off (60+)</discountRate>
+		<targetAge>50+</targetAge>
+		<active>y</active>
+		<imgLink>m93</imgLink>
+	</companyData>
+	<companyData>
+		<id>94</id>
+		<category>trav</category>
+		<companyName>Marriott Hotels</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>15% off</discountRate>
+		<targetAge>62+</targetAge>
+		<active>y</active>
+		<imgLink>m94</imgLink>
+	</companyData>
+	<companyData>
+		<id>95</id>
+		<category>trav</category>
+		<companyName>Motel 6</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>m95</imgLink>
+	</companyData>
+	<companyData>
+		<id>96</id>
+		<category>trav</category>
+		<companyName>Myrtle Beach Resort</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>10% off</discountRate>
+		<targetAge>55+</targetAge>
+		<active>y</active>
+		<imgLink>m96</imgLink>
+	</companyData>
+	<companyData>
+		<id>97</id>
+		<category>trav</category>
+		<companyName>National Rent-A-Car</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>up to 30% off for AARP members</discountRate>
+		<targetAge>n/a</targetAge>
+		<active>y</active>
+		<AARP>y</AARP>
+		<imgLink>n97</imgLink>
+	</companyData>
+	<companyData>
+		<id>98</id>
+		<category>trav</category>
+		<companyName>Quality Inn</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>20%-30% off</discountRate>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>q98</imgLink>
+	</companyData>
+	<companyData>
+		<id>99</id>
+		<category>trav</category>
+		<companyName>Rodeway Inn</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>20%-30% off</discountRate>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>r99</imgLink>
+	</companyData>
+	<companyData>
+		<id>100</id>
+		<category>trav</category>
+		<companyName>Sleep Inn</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>20%-30% off</discountRate>
+		<targetAge>60+</targetAge>
+		<active>y</active>
+		<imgLink>s100</imgLink>
+	</companyData>
+	<companyData>
+		<id>101</id>
+		<category>trav</category>
+		<companyName>Southwest Airlines</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>various discounts (call before booking for discount)</discountRate>
+		<targetAge>65+</targetAge>
+		<active>y</active>
+		<imgLink>s101</imgLink>
+	</companyData>
+	<companyData>
+		<id>102</id>
+		<category>trav</category>
+		<companyName>Trailways Transportation System</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>various discounts</discountRate>
+		<targetAge>50+</targetAge>
+		<active>y</active>
+		<imgLink>t102</imgLink>
+	</companyData>
+	<companyData>
+		<id>103</id>
+		<category>trav</category>
+		<companyName>U.S. Airways</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>various discounts (call before booking for discount)</discountRate>
+		<targetAge>65+</targetAge>
+		<active>y</active>
+		<imgLink>u103</imgLink>
+	</companyData>
+	<companyData>
+		<id>104</id>
+		<category>trav</category>
+		<companyName>United Airlines</companyName>
+		<storeType>Travel</storeType>
+		<discountRate>various discounts (call before booking for discount)</discountRate>
+		<targetAge>65+</targetAge>
+		<active>y</active>
+		<imgLink>u104</imgLink>
+	</companyData>
+	<companyData>
+		<id>105</id>
+		<category>acti</category>
+		<companyName>AMC Theaters</companyName>
+		<storeType>Activities &amp; Entertainment</storeType>
+		<discountRate>up to 30% off</discountRate>
+		<targetAge>55+</targetAge>
+		<active>y</active>
+		<imgLink>a105</imgLink>
+	</companyData>
+	<companyData>
+		<id>106</id>
+		<category>acti</category>
+		<companyName>Bally Total Fitness</companyName>
+		<storeType>Activities &amp; Entertainment</storeType>
+		<discountRate>up to $100 off memberships</discountRate>
+		<targetAge>62+</targetAge>
+		<active>y</active>
+		<imgLink>b106</imgLink>
+	</companyData>
+	<companyData>
+		<id>107</id>
+		<category>acti</category>
+		<companyName>Busch Gardens Tampa</companyName>
+		<storeType>Activities &amp; Entertainment</storeType>
+		<discountRate>$3 off one-day tickets</discountRate>
+		<targetAge>50+</targetAge>
+		<active>y</active>
+		<imgLink>b107</imgLink>
+	</companyData>
+	<companyData>
+		<id>108</id>
+		<category>acti</category>
+		<companyName>Carmike Cinemas</companyName>
+		<storeType>Activities &amp; Entertainment</storeType>
+		<discountRate>35% off</discountRate>
+		<targetAge>65+</targetAge>
+		<active>y</active>
+		<imgLink>c108</imgLink>
+	</companyData>
+	<companyData>
+		<id>109</id>
+		<category>acti</category>
+		<companyName>Cinemark/Century Theaters</companyName>
+		<storeType>Activities &amp; Entertainment</storeType>
+		<discountRate>up to 35% off</discountRate>
+		<targetAge>n/a</targetAge>
+		<active>y</active>
+		<imgLink>c109</imgLink>
+	</companyData>
+	<companyData>
+		<id>110</id>
+		<category>acti</category>
+		<companyName>Regal Cinemas</companyName>
+		<storeType>Activities &amp; Entertainment</storeType>
+		<discountRate>30% off</discountRate>
+		<targetAge>n/a</targetAge>
+		<active>y</active>
+		<imgLink>r110</imgLink>
+	</companyData>
+	<companyData>
+		<id>111</id>
+		<category>acti</category>
+		<companyName>Ripley’s Believe it or Not</companyName>
+		<storeType>Activities &amp; Entertainment</storeType>
+		<discountRate>$2 off one-day ticket</discountRate>
+		<targetAge>55+</targetAge>
+		<active>y</active>
+		<imgLink>r111</imgLink>
+	</companyData>
+	<companyData>
+		<id>112</id>
+		<category>acti</category>
+		<companyName>SeaWorld Orlando</companyName>
+		<storeType>Activities &amp; Entertainment</storeType>
+		<discountRate>$3 off one-day tickets</discountRate>
+		<targetAge>50+</targetAge>
+		<active>y</active>
+		<imgLink>s112</imgLink>
+	</companyData>
+	<companyData>
+		<id>113</id>
+		<category>acti</category>
+		<companyName>U.S. National Parks</companyName>
+		<storeType>Activities &amp; Entertainment</storeType>
+		<discountRate>$10 lifetime pass; 50% off additional services including camping</discountRate>
+		<targetAge>62+</targetAge>
+		<active>y</active>
+		<imgLink>u113</imgLink>
+	</companyData>
+	<companyData>
+		<id>114</id>
+		<category>cell</category>
+		<companyName>AT&amp;T</companyName>
+		<storeType>Cell Phone Discounts</storeType>
+		<discountRate>Special Senior Nation 200 Plan $29.99/month (available in select areas only)</discountRate>
+		<targetAge>65+ </targetAge>
+		<active>y</active>
+		<imgLink>a114</imgLink>
+	</companyData>
+	<companyData>
+		<id>115</id>
+		<category>cell</category>
+		<companyName>Jitterbug</companyName>
+		<storeType>Cell Phone Discounts</storeType>
+		<discountRate>$10/month cell phone service</discountRate>
+		<targetAge>50+</targetAge>
+		<active>y</active>
+		<imgLink>j115</imgLink>
+	</companyData>
+	<companyData>
+		<id>116</id>
+		<category>cell</category>
+		<companyName>Verizon Wireless</companyName>
+		<storeType>Cell Phone Discounts</storeType>
+		<discountRate>Verizon Nationwide 65 Plus Plan $29.99/month</discountRate>
+		<targetAge>65+</targetAge>
+		<active>y</active>
+		<imgLink>v116</imgLink>
+	</companyData>
+	<companyData>
+		<id>117</id>
+		<category>misc</category>
+		<companyName>Fantastic Sams</companyName>
+		<storeType>Miscellaneous</storeType>
+		<discountRate>varies by store *please call and ask*</discountRate>
+		<targetAge>n/a</targetAge>
+		<active>y</active>
+		<imgLink>f117</imgLink>
+	</companyData>
+	<companyData>
+		<id>118</id>
+		<category>misc</category>
+		<companyName>Great Clips</companyName>
+		<storeType>Miscellaneous</storeType>
+		<discountRate>varies by store *please call and ask*</discountRate>
+		<targetAge>n/a</targetAge>
+		<active>y</active>
+		<imgLink>g118</imgLink>
+	</companyData>
+	<companyData>
+		<id>119</id>
+		<category>misc</category>
+		<companyName>Super Cuts</companyName>
+		<storeType>Miscellaneous</storeType>
+		<discountRate>varies by store *please call and ask*</discountRate>
+		<targetAge>n/a</targetAge>
+		<active>y</active>
+		<imgLink>s119</imgLink>
+	</companyData>
+</disco50Data>
